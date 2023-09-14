@@ -1,0 +1,5 @@
+Các bước add file lên github:
+
+1. git add .: báo cáo thêm hết nhưng gì mới nhất
+2. git commit -m '' : kí duyệt các thay đổi
+3. git push origin master: đẩy code lên 
